@@ -1,14 +1,14 @@
 # Case Study #1: Danny's Diner
 ![1](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/3ebb1080-b8d3-4381-850d-4a003cc9476d)
 
-The case study presented here is part of the `8 Week SQL Challenge`, 
+The case study presented here is part of the **8 Week SQL Challenge**, 
 
-It is kindly brought to us by [*Data With Danny*](https://8weeksqlchallenge.com).
+It is kindly brought to us by [**Data With Danny**](https://8weeksqlchallenge.com).
 
 My SQL queries are written in the `MySQL` language, integrated into `Jupyter Notebook`, which allows us to instantly view the query results.
 
 
-For more details about the **Case Study #1** and the funny story behind it, click [here](https://8weeksqlchallenge.com/case-study-1/).
+For more details about the **Case Study #1** and the funny story behind it, click [**here**](https://8weeksqlchallenge.com/case-study-1/).
 
 
 ## Entity Relationship Diagram
