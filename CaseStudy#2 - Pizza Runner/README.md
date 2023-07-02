@@ -11,6 +11,12 @@ My SQL queries are written in the `MySQL` language, integrated into `Jupyter Not
 
 For more details about the **Case Study #2** and the funny story behind it, click [**here**](https://8weeksqlchallenge.com/case-study-2/).
 
+## Table of Contents
+* [Entity Relationship Diagram](#entity-relationship-diagram)
+* [Datasets](#datasets)
+* [Case Study Questions](#case-study-questions)
+* [Files](#files)
+* [MySQL Topics Covered](#mysql-topics-covered)
 
 ## Entity Relationship Diagram
 ![Pizza Runner](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/4222d127-ee94-49be-95ce-6e81d9b3774a)
@@ -38,7 +44,7 @@ E. Bonus Questions
 - View `pizza_runner` database: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_schema.sql)
 - View Solution: [markdown file](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md) | [Jupyter Notebook](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.ipynb)
 
-## MySQL Topics Covered:
+## MySQL Topics Covered
 - Data Cleaning
 - Common Table Expressions (CTE)
 - Temporary Tables
