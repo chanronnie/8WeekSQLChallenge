@@ -36,7 +36,7 @@ E. Bonus Questions
 
 ## Files
 - View `pizza_runner` database: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_schema.sql)
-- View Solution: [markdown file](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#Import) | [Jupyter Notebook](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.ipynb)
+- View Solution: [markdown file](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md) | [Jupyter Notebook](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.ipynb)
 
 ## MySQL Topics Covered:
 - Data Cleaning
