@@ -10,17 +10,23 @@ My SQL queries are written in the `MySQL` language, integrated into `Jupyter Not
 
 For more details about the **Case Study #1** and the funny story behind it, click [**here**](https://8weeksqlchallenge.com/case-study-1/).
 
+## Table of Contents
+* [Entity Relationship Diagram](#entity-relationship-diagram)
+* [Datasets](#datasets)
+* [Case Study Questions](#case-study-questions)
+* [Files](#files)
 
-## 🔗 Entity Relationship Diagram
+
+## Entity Relationship Diagram
 ![Danny's Diner](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/d71bffd1-6513-456c-9686-d95dbf1eeaaf)
 
-## 🗓️ Datasets
+## Datasets
 The Case Study #1 contains 3 tables:
 - **sales**: This table captures all the order information (`order_date` and `product_id`) of each customer (`customer_id`).
 - **menu**: This table lists the IDs, names and prices of each menu item.
 - **members**: This table the dates (`join_date`) when each customer joined the member program.
 
-## ❓Case Study Questions 
+## Case Study Questions 
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
 3. What was the first item from the menu purchased by each customer?
@@ -33,7 +39,7 @@ The Case Study #1 contains 3 tables:
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
 
-## 📁 Files
+## Files
 - View `dannys_diner` database: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%231%20-%20Danny's%20Diner/CaseStudy1_schema.sql)
 - View Solution: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%231%20-%20Danny's%20Diner/CaseStudy1_solution.ipynb)
 
