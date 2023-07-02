@@ -17,7 +17,7 @@ For more details about the **Case Study #2** and the funny story behind it, clic
 
 
 ## Datasets
-The Case Study #2 contains 6 tables:
+The Case Study #2 contains [6 tables](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#Tables):
 - **customer_orders**: This table captures all the pizza order and delivery information of each customer (`customer_id`).
 - **runner_orders**: This table lists the delivery and runner information for each order.
 - **runners**: This table lists the runner IDs and their registration dates.
@@ -27,19 +27,19 @@ The Case Study #2 contains 6 tables:
 
 ## Case Study Questions
 Case Study #2 is categorized into five question groups:\
-A. Pizza Metrics\
-B. Runner and Customer Experience\
-C. Ingredient Optimisation\
-D. Pricing and Ratings\
-E. Bonus Questions
+[A. Pizza Metrics](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#A)\
+[B. Runner and Customer Experience](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#B)\
+[C. Ingredient Optimisation](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#C)\
+[D. Pricing and Ratings](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#D)\
+[E. Bonus Questions](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#E)
 
 
 ## Files
 - View `pizza_runner` database: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_schema.sql)
-- View Solution: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.ipynb)
+- View Solution: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#Import)
 
 ## MySQL Topics Covered:
-- Data Cleaning 
+- [Data Cleaning](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#DataCleaning) 
 - Common Table Expressions (CTE)
 - Temporary Tables
 - Window Functions
