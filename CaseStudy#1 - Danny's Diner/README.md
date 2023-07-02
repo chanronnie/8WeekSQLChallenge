@@ -34,6 +34,6 @@ The Case Study #1 contains 3 tables:
 
 
 ## 📁 Files
-- View `dannys_diner` database: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%231_Danny's%20Diner/CaseStudy1_DannysDiner_DDL.sql)
-- View Solution: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%231_Danny's%20Diner/CaseStudy1_DannysDiner_queries.ipynb)
+- View `dannys_diner` database: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%231%20-%20Danny's%20Diner/CaseStudy1_schema.sql)
+- View Solution: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%231%20-%20Danny's%20Diner/CaseStudy1_solution.ipynb)
 
