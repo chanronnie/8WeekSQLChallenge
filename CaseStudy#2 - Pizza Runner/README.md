@@ -1,4 +1,4 @@
-# Case Study #2: Pizza Runner
+# Case Study #2: Pizza Runner 🍕
 ![2](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/b7a82869-9156-4cf5-add0-67f701bf3e45)
 
 
@@ -27,19 +27,19 @@ The Case Study #2 contains [6 tables](https://github.com/chanronnie/8WeekSQLChal
 
 ## Case Study Questions
 Case Study #2 is categorized into five question groups:\
-[A. Pizza Metrics](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#A)\
-[B. Runner and Customer Experience](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#B)\
-[C. Ingredient Optimisation](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#C)\
-[D. Pricing and Ratings](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#D)\
-[E. Bonus Questions](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#E)
+A. Pizza Metrics\
+B. Runner and Customer Experience\
+C. Ingredient Optimisation\
+D. Pricing and Ratings\
+E. Bonus Questions
 
 
 ## Files
 - View `pizza_runner` database: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_schema.sql)
-- View Solution: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#Import)
+- View Solution: [markdown file](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#Import) | [Jupyter Notebook](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.ipynb)
 
 ## MySQL Topics Covered:
-- [Data Cleaning](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#DataCleaning) 
+- Data Cleaning
 - Common Table Expressions (CTE)
 - Temporary Tables
 - Window Functions
