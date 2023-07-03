@@ -30,11 +30,11 @@ The Case Study #2 contains 6 tables:
 
 ## Case Study Questions
 Case Study #2 is categorized into five question groups:\
-[A. Pizza Metrics](./CaseStudy2_solutions.md#A)\
-[B. Runner and Customer Experience](./CaseStudy2_solutions.md#B)\
-[C. Ingredient Optimisation](./CaseStudy2_solutions.md#C)\
-[D. Pricing and Ratings](./CaseStudy2_solutions.md#D)\
-[E. Bonus Questions](./CaseStudy2_solutions.md#E)
+[A. Pizza Metrics](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#A)\
+[B. Runner and Customer Experience](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#B)\
+[C. Ingredient Optimisation](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#C)\
+[D. Pricing and Ratings](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#D)\
+[E. Bonus Questions](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_solutions.md#E)
 
 
 ## Files
