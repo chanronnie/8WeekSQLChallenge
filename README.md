@@ -1,4 +1,6 @@
 # 8 Week SQL Challenge 
+![case](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/80a28034-5afd-435c-83dc-0d9a6ffa100f)
+
 In my journey to switch careers into the field of Data, I am excited to undertake the [**#8WeekSQLChallenge**](https://8weeksqlchallenge.com/), kindly created by [Data with Danny](https://linktr.ee/datawithdanny) in order to enhance my SQL skills. 
 This repository will store all the solutions for the case studies included in this challenge.
 
