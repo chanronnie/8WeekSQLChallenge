@@ -1,14 +1,12 @@
 # Case Study #1: Danny's Diner 🍥 
 ![1](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/3ebb1080-b8d3-4381-850d-4a003cc9476d)
 
-The case study presented here is part of the **8 Week SQL Challenge**, 
+The case study presented here is part of the **8 Week SQL Challenge**.\
+It is kindly brought to us by [**Data With Danny**](https://8weeksqlchallenge.com).\
+I use `MySQL queries` in `Jupyter Notebook` to quickly view results.
 
-It is kindly brought to us by [**Data With Danny**](https://8weeksqlchallenge.com).
+View **Case Study #1**: [**here**](https://8weeksqlchallenge.com/case-study-1/)
 
-My SQL queries are written in the `MySQL` language, integrated into `Jupyter Notebook`, which allows us to instantly view the query results.
-
-
-For more details about the **Case Study #1** and the funny story behind it, click [**here**](https://8weeksqlchallenge.com/case-study-1/).
 
 ## Table of Contents
 * [Entity Relationship Diagram](#entity-relationship-diagram)
@@ -24,7 +22,7 @@ For more details about the **Case Study #1** and the funny story behind it, clic
 The Case Study #1 contains 3 tables:
 - **sales**: This table captures all the order information (`order_date` and `product_id`) of each customer (`customer_id`).
 - **menu**: This table lists the IDs, names and prices of each menu item.
-- **members**: This table the dates (`join_date`) when each customer joined the member program.
+- **members**: This table captures the dates (`join_date`) when each customer joined the member program.
 
 ## Case Study Questions 
 1. What is the total amount each customer spent at the restaurant?
@@ -40,6 +38,6 @@ The Case Study #1 contains 3 tables:
 
 
 ## Files
-- View `dannys_diner` database: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%231%20-%20Danny's%20Diner/CaseStudy1_schema.sql)
-- View Solution: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%231%20-%20Danny's%20Diner/CaseStudy1_solution.ipynb)
+- View `dannys_diner` database: [here](CaseStudy1_schema.sql)
+- View Solution: [here](CaseStudy1_solution.ipynb)
 
