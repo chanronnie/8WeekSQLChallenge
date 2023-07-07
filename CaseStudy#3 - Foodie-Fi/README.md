@@ -13,7 +13,7 @@ View **Case Study #3**: [**here**](https://8weeksqlchallenge.com/case-study-3/).
 * [Entity Relationship Diagram](#entity-relationship-diagram)
 * [Datasets](#datasets)
 * [Case Study Questions](#case-study-questions)
-* [Files](#files)
+* [Solutions](#solutions)
 * [MySQL Topics Covered](#mysql-topics-covered)
 
 ## Entity Relationship Diagram
@@ -33,7 +33,7 @@ To view the specific section, please open the link in a *`new tab`* or *`window`
 [B. Data Analysis Questions](CaseStudy3_solutions.md#B)\
 [C. Challenge Payment Question](CaseStudy3_solutions.md#C)
 
-## Files
+## Solutions
 - View `foodie_fi` database: [here](CaseStudy3_schema.sql)
 - View Solution:
     - [Markdown File](CaseStudy3_solutions.md): offers a more fluid and responsive viewing experience
