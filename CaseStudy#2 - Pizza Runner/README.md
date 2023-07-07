@@ -12,7 +12,7 @@ View **Case Study #2**: [**here**](https://8weeksqlchallenge.com/case-study-2/).
 * [Entity Relationship Diagram](#entity-relationship-diagram)
 * [Datasets](#datasets)
 * [Case Study Questions](#case-study-questions)
-* [Files](#files)
+* [Solutions](#solutions)
 * [MySQL Topics Covered](#mysql-topics-covered)
 
 ## Entity Relationship Diagram
@@ -38,7 +38,7 @@ To view the specific section, please open the link in a *`new tab`* or *`window`
 [E. Bonus Questions](CaseStudy2_solutions.md#E)
 
 
-## Files
+## Solutions
 - View `pizza_runner` database: [here](https://github.com/chanronnie/8WeekSQLChallenge/blob/main/CaseStudy%232%20-%20Pizza%20Runner/CaseStudy2_schema.sql)
 - View Solution:
     - [Markdown File](CaseStudy2_solutions.md): offers a more fluid and responsive viewing experience
