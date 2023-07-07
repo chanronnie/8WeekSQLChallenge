@@ -5,14 +5,14 @@ The case study presented here is part of the **8 Week SQL Challenge**.\
 It is kindly brought to us by [**Data With Danny**](https://8weeksqlchallenge.com).\
 I use `MySQL queries` in `Jupyter Notebook` to quickly view results.
 
-View **Case Study #1**: [**here**](https://8weeksqlchallenge.com/case-study-1/)
+🍥 View **Case Study #1**: [**here**](https://8weeksqlchallenge.com/case-study-1/)
 
 
 ## Table of Contents
 * [Entity Relationship Diagram](#entity-relationship-diagram)
 * [Datasets](#datasets)
 * [Case Study Questions](#case-study-questions)
-* [Files](#files)
+* [Solutions](#solutions)
 
 
 ## Entity Relationship Diagram
@@ -37,7 +37,7 @@ The Case Study #1 contains 3 tables:
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
 
-## Files
-- View `dannys_diner` database: [here](CaseStudy1_schema.sql)
-- View Solution: [here](CaseStudy1_solution.ipynb)
+## Solutions
+- View `dannys_diner` database: [**here**](CaseStudy1_schema.sql)
+- View Solution: [**here**](CaseStudy1_solution.ipynb)
 
