@@ -6,7 +6,7 @@ The case study presented here is part of the **8 Week SQL Challenge**.\
 It is kindly brought to us by [**Data With Danny**](https://8weeksqlchallenge.com).\
 I use `MySQL queries` in `Jupyter Notebook` to quickly view results.
 
-View **Case Study #2**: [**here**](https://8weeksqlchallenge.com/case-study-2/).
+🍕 View **Case Study #2**: [**here**](https://8weeksqlchallenge.com/case-study-2/).
 
 ## Table of Contents
 * [Entity Relationship Diagram](#entity-relationship-diagram)
