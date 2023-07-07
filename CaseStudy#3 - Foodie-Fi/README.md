@@ -7,7 +7,7 @@ The case study presented here is part of the **8 Week SQL Challenge**.\
 It is kindly brought to us by [**Data With Danny**](https://8weeksqlchallenge.com).\
 I use `MySQL queries` in `Jupyter Notebook` to quickly view results.
 
-View **Case Study #3**: [**here**](https://8weeksqlchallenge.com/case-study-3/).
+🥑 View **Case Study #3**: [**here**](https://8weeksqlchallenge.com/case-study-3/).
 
 ## Table of Contents
 * [Entity Relationship Diagram](#entity-relationship-diagram)
@@ -34,10 +34,10 @@ To view the specific section, please open the link in a *`new tab`* or *`window`
 [C. Challenge Payment Question](CaseStudy3_solutions.md#C)
 
 ## Solutions
-- View `foodie_fi` database: [here](CaseStudy3_schema.sql)
+- View `foodie_fi` database: [**here**](CaseStudy3_schema.sql)
 - View Solution:
-    - [Markdown File](CaseStudy3_solutions.md): offers a more fluid and responsive viewing experience
-    - [Jupyter Notebook](CaseStudy3_solutions.ipynb): contains the original code
+    - [**Markdown File**](CaseStudy3_solutions.md): offers a more fluid and responsive viewing experience
+    - [**Jupyter Notebook**](CaseStudy3_solutions.ipynb): contains the original code
 
 ## MySQL Topics Covered
 - Common Table Expressions (CTE)
