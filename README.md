@@ -6,17 +6,17 @@ In my journey to switch careers into the field of Data, I am excited to undertak
 This repository will store all the solutions for the case studies included in this challenge.
 
 ## Case Studies
-Case Study | Topic | Status|
-| --- | --- | --- |
-|📄 [**#1 Danny's Diner**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%231%20-%20Danny's%20Diner) |Customer Analytics | **Completed** ✔️|
-|📄 [**#2 Pizza Runner**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%232%20-%20Pizza%20Runner) | Delivery Operations Analytics | **Completed** ✔️|
-|📄 [**#3 Foodie-Fi**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%233%20-%20Foodie-Fi)| Subscription Analytics | **Completed** ✔️|
-|📑 **#4 Data Bank** || In Progress ⏳ |
-|📄 **#5 Data Mart** || Unstarted |
-|📄 **#6 Clique Bait** || Unstarted |
-|📄 **#7 Balanced Tree** || Unstarted |
-|📄 **#8 Fresh Segments** || Unstarted |
+Case Study | Topic | SQL | Status|
+| --- | --- | --- | --- |
+|📄 [**#1 Danny's Diner**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%231%20-%20Danny's%20Diner) |Customer Analytics | MySQL | **Completed** ✔️|
+|📄 [**#2 Pizza Runner**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%232%20-%20Pizza%20Runner) | Delivery Operations Analytics | MySQL| **Completed** ✔️|
+|📄 [**#3 Foodie-Fi**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%233%20-%20Foodie-Fi)| Subscription Analytics | MySQL| **Completed** ✔️|
+|📄 [**#4 Data Bank**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%234%20-%20Data%20Bank) | Financial Data Storage and Usage Analytics | PostgreSQL| **Completed** ✔️ |
+|🛠️ **#5 Data Mart** ||| In Progress ⏳ |
+|📄 **#6 Clique Bait** ||| Unstarted |
+|📄 **#7 Balanced Tree** ||| Unstarted |
+|📄 **#8 Fresh Segments** ||| Unstarted |
 
 ## Technologies
-- SQL (MySQL)
+- SQL (MySQL, PostgreSQL)
 - Jupyter
