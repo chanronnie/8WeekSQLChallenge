@@ -20,3 +20,15 @@ Case Study | Topic | SQL | Status|
 ## Technologies
 - SQL (MySQL, PostgreSQL)
 - Jupyter
+
+## Installation
+
+For writing **MySQL** queries in Jupyter Notebook, we wil need to install the `pymysql` library
+```
+pip install pymysql
+```
+
+For writing **PostgreSQL** queries in Jupyter Notebook, we wil need to install the `psycopg2` library
+```
+pip install psycopg2
+```
