@@ -12,8 +12,8 @@ Case Study | Topic | SQL | Status|
 |📄 [**#2 Pizza Runner**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%232%20-%20Pizza%20Runner) | Delivery Operations Analytics | MySQL| **Completed** ✔️|
 |📄 [**#3 Foodie-Fi**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%233%20-%20Foodie-Fi)| Subscription Analytics | MySQL| **Completed** ✔️|
 |📄 [**#4 Data Bank**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%234%20-%20Data%20Bank) | Financial Data Storage and Usage Analytics | PostgreSQL| **Completed** ✔️ |
-|🛠️ **#5 Data Mart** ||| In Progress ⏳ |
-|📄 **#6 Clique Bait** ||| Unstarted |
+|📄 [**#5 Data Mart**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%235%20-%20Data%20Mart) | Sales Analytics | PostgreSQL | **Completed** ✔️ |
+|🛠️ **#6 Clique Bait** ||| In Progress ⏳|
 |📄 **#7 Balanced Tree** ||| Unstarted |
 |📄 **#8 Fresh Segments** ||| Unstarted |
 
