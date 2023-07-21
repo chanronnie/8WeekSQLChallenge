@@ -1,6 +1,6 @@
 # Case Study #6: Clique Bait 🪝</br>
 [![View Main Folder](https://img.shields.io/badge/View-Main_Folder-F5788D.svg?logo=GitHub)](https://github.com/chanronnie/8WeekSQLChallenge)
-[![View Case Study 6 here](https://img.shields.io/badge/View_Case_Study_6-Here-06816E)](https://8weeksqlchallenge.com/case-study-6/)</br>
+[![View Case Study 6](https://img.shields.io/badge/View-Case_Study_6-06816E)](https://8weeksqlchallenge.com/case-study-6/)</br>
 ![6](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/364b11b1-7a4b-47d9-b7a6-6fd87075d140)
 
 
