@@ -1,4 +1,5 @@
 # Case Study #4: Data Bank 💱
+[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-F5788D.svg?logo=GitHub)](https://github.com/chanronnie/8WeekSQLChallenge)</br>
 ![4](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/8d5eb6d0-c3d2-4e6c-998d-6c00fff3d516)
 
 
