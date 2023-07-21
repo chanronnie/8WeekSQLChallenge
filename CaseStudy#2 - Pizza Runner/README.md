@@ -1,4 +1,5 @@
 # Case Study #2: Pizza Runner 🍕
+[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-F5788D.svg?logo=GitHub)](https://github.com/chanronnie/8WeekSQLChallenge)</br>
 ![2](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/b7a82869-9156-4cf5-add0-67f701bf3e45)
 
 
