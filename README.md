@@ -13,13 +13,14 @@ Case Study | Topic | SQL | Status|
 |📄 [**#3 Foodie-Fi**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%233%20-%20Foodie-Fi)| Subscription Analytics | MySQL| **Completed** ✔️|
 |📄 [**#4 Data Bank**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%234%20-%20Data%20Bank) | Financial Data Storage and Usage Analytics | PostgreSQL| **Completed** ✔️ |
 |📄 [**#5 Data Mart**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%235%20-%20Data%20Mart) | Sales Analytics | PostgreSQL | **Completed** ✔️ |
-|🛠️ **#6 Clique Bait** ||| In Progress ⏳|
-|📄 **#7 Balanced Tree** ||| Unstarted |
+|📄 [**#6 Clique Bait**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%236%20-%20Clique%20Bait) | Digital Analytics| PostgreSQL | **Completed** ✔️|
+|🛠️ **#7 Balanced Tree** ||| In Progress⏳ |
 |📄 **#8 Fresh Segments** ||| Unstarted |
 
 ## Technologies
-- SQL (MySQL, PostgreSQL)
-- Jupyter
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## Installation
 
