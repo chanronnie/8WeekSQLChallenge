@@ -55,7 +55,7 @@ user_id | cookie_id | start_date
 ### `events`
 <details>
 <summary>
-events
+View table
 </summary>
   
 `events` : The table lists all the website interactions by customers (cookie_id, webpage visited, etc.).
