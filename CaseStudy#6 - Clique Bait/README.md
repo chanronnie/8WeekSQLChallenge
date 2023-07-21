@@ -1,5 +1,6 @@
 # Case Study #6: Clique Bait 🪝</br>
-[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-F5788D.svg?logo=GitHub)](https://github.com/chanronnie/8WeekSQLChallenge)</br>
+[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-F5788D.svg?logo=GitHub)](https://github.com/chanronnie/8WeekSQLChallenge)
+[![View Case Study 6 here](https://img.shields.io/badge/View_Case_Study_6-Here-06816E)](https://8weeksqlchallenge.com/case-study-6/)</br>
 ![6](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/364b11b1-7a4b-47d9-b7a6-6fd87075d140)
 
 
@@ -11,7 +12,6 @@ This time, I am using `PostgreSQL queries` (instead of MySQL) in `Jupyter Notebo
   - to utilize handy mathematical and string functions.
 
 
-🪝 View **Case Study #6**: [**here**](https://8weeksqlchallenge.com/case-study-6/).
 
 ## Table of Contents
 * [Entity Relationship Diagram](#entity-relationship-diagram)
