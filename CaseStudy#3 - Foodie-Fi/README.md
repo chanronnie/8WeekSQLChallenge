@@ -1,4 +1,5 @@
 # Case Study #3: Foodie-Fi 🥑
+[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-F5788D.svg?logo=GitHub)](https://github.com/chanronnie/8WeekSQLChallenge)</br>
 ![3](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/660c3a4a-8c2e-4f40-842b-464a3f4bf3ff)
 
 
