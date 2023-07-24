@@ -12,7 +12,6 @@ This time, I am using `PostgreSQL queries` (instead of MySQL) in `Jupyter Notebo
   - to utilize handy mathematical and string functions.
 
 
-🧺 View **Case Study #5**: [**here**](https://8weeksqlchallenge.com/case-study-5/).
 
 ## Table of Contents
 * [Entity Relationship Diagram](#entity-relationship-diagram)
