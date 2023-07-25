@@ -1,4 +1,6 @@
 # Case Study #5: Data Mart 🧺
+[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-F5788D.svg?logo=GitHub)](https://github.com/chanronnie/8WeekSQLChallenge)
+[![View Case Study 5](https://img.shields.io/badge/View-Case_Study_5-red)](https://8weeksqlchallenge.com/case-study-5/)</br>
 ![5](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/a07627c4-27c5-47f5-a6f8-dc3379831287)
 
 
@@ -10,7 +12,6 @@ This time, I am using `PostgreSQL queries` (instead of MySQL) in `Jupyter Notebo
   - to utilize handy mathematical and string functions.
 
 
-🧺 View **Case Study #5**: [**here**](https://8weeksqlchallenge.com/case-study-5/).
 
 ## Table of Contents
 * [Entity Relationship Diagram](#entity-relationship-diagram)

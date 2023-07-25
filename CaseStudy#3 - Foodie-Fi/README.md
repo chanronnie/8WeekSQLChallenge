@@ -1,4 +1,6 @@
 # Case Study #3: Foodie-Fi 🥑
+[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-F5788D.svg?logo=GitHub)](https://github.com/chanronnie/8WeekSQLChallenge)
+[![View Case Study 3](https://img.shields.io/badge/View-Case_Study_3-049C20)](https://8weeksqlchallenge.com/case-study-3/)</br>
 ![3](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/660c3a4a-8c2e-4f40-842b-464a3f4bf3ff)
 
 
@@ -7,7 +9,6 @@ The case study presented here is part of the **8 Week SQL Challenge**.\
 It is kindly brought to us by [**Data With Danny**](https://8weeksqlchallenge.com).\
 I use `MySQL queries` in `Jupyter Notebook` to quickly view results.
 
-🥑 View **Case Study #3**: [**here**](https://8weeksqlchallenge.com/case-study-3/).
 
 ## Table of Contents
 * [Entity Relationship Diagram](#entity-relationship-diagram)
