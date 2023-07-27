@@ -12,10 +12,10 @@ Case Study | Topic | SQL | Status|
 |📄 [**#2 Pizza Runner**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%232%20-%20Pizza%20Runner) | Delivery Operations Analytics | MySQL| **Completed** ✔️|
 |📄 [**#3 Foodie-Fi**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%233%20-%20Foodie-Fi)| Subscription Analytics | MySQL| **Completed** ✔️|
 |📄 [**#4 Data Bank**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%234%20-%20Data%20Bank) | Financial Data Storage and Usage Analytics | PostgreSQL| **Completed** ✔️ |
-|📄 [**#5 Data Mart**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%235%20-%20Data%20Mart) | Sales Analytics | PostgreSQL | **Completed** ✔️ |
-|📄 [**#6 Clique Bait**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%236%20-%20Clique%20Bait) | Digital Analytics| PostgreSQL | **Completed** ✔️|
-|🛠️ **#7 Balanced Tree** ||| In Progress⏳ |
-|📄 **#8 Fresh Segments** ||| Unstarted |
+|📄 [**#5 Data Mart**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%235%20-%20Data%20Mart) | Sales Performance Analytics | PostgreSQL | **Completed** ✔️ |
+|📄 [**#6 Clique Bait**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%236%20-%20Clique%20Bait) | Digital Analytics| PostgreSQL | **Completed** ✔️ |
+|📄 [**#7 Balanced Tree**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%237%20-%20Balanced%20Tree) | Sales Performance Analytics | PostgreSQL | **Completed** ✔️ |
+|🛠️ **#8 Fresh Segments** ||| In Progress⏳|
 
 ## Technologies
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -24,12 +24,12 @@ Case Study | Topic | SQL | Status|
 
 ## Installation
 
-For writing **MySQL** queries in Jupyter Notebook, we wil need to install the `pymysql` library
+For writing **MySQL** queries in Jupyter Notebook, we will need to install the `pymysql` library
 ```
 pip install pymysql
 ```
 
-For writing **PostgreSQL** queries in Jupyter Notebook, we wil need to install the `psycopg2` library
+For writing **PostgreSQL** queries in Jupyter Notebook, we will need to install the `psycopg2` library
 ```
 pip install psycopg2
 ```
