@@ -1,6 +1,6 @@
 # Case Study #8: Fresh Segments</br>
 [![View Main Folder](https://img.shields.io/badge/View-Main_Folder-F5788D.svg?logo=GitHub)](https://github.com/chanronnie/8WeekSQLChallenge)
-[![View Case Study 8](https://img.shields.io/badge/View-Case_Study_8-06816E)](https://8weeksqlchallenge.com/case-study-8/)</br>
+[![View Case Study 8](https://img.shields.io/badge/View-Case_Study_8-07A092)](https://8weeksqlchallenge.com/case-study-8/)</br>
 ![8](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/4f340132-a725-4702-a865-808b623c467c)
 
 
@@ -25,7 +25,7 @@ Again, I used the [DB Diagram tool](https://dbdiagram.io/home) to create the fol
 <details>
 <summary>View code to create ERD</summary>
   
-Here is the code that I used for creating the ERD for all the Balanced Tree datasets on DB Diagram tool
+Here is the code that I used for creating the ERD for the Fresh Segments datasets on DB Diagram tool
 
 ```markdown
 TABLE interest_metrics {
@@ -114,7 +114,7 @@ To view the specific section, please open the link in a *`new tab`* or *`window`
 
 
 ## Solutions
-- View `balanced_tree` database: [**here**](CaseStudy8_schema.sql)
+- View `fresh_segments` database: [**here**](CaseStudy8_schema.sql)
 - View Solution:
     - [**Markdown File**](CaseStudy8_solutions.md): offers a more fluid and responsive viewing experience
     - [**Jupyter Notebook**](CaseStudy8_solutions.ipynb): contains the original code
