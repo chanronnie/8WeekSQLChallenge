@@ -15,7 +15,7 @@ Case Study | Topic | SQL | Status|
 |📄 [**#5 Data Mart**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%235%20-%20Data%20Mart) | Sales Performance Analytics | PostgreSQL | **Completed** ✔️ |
 |📄 [**#6 Clique Bait**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%236%20-%20Clique%20Bait) | Digital Analytics| PostgreSQL | **Completed** ✔️ |
 |📄 [**#7 Balanced Tree**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%237%20-%20Balanced%20Tree) | Sales Performance Analytics | PostgreSQL | **Completed** ✔️ |
-|🛠️ **#8 Fresh Segments** ||| In Progress⏳|
+|📄 [**#8 Fresh Segments**](https://github.com/chanronnie/8WeekSQLChallenge/tree/main/CaseStudy%238%20-%20Fresh%20Segments) | Digital Marketing Analytics | PostgreSQL | **Completed** ✔️|
 
 ## Technologies
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
