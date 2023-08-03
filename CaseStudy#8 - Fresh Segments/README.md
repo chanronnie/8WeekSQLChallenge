@@ -105,7 +105,7 @@ id | interest_name | interest_summary | created_at | last_modified
 
 
 ## Case Study Questions
-Case Study #8 is categorized into 8 question groups\
+Case Study #8 is categorized into 4 question groups\
 To view the specific section, please open the link in a *`new tab`* or *`window`*.\
 [A. Data Exploration and Cleansing](CaseStudy8_solutions.md#A)\
 [B. Interest Analysis](CaseStudy8_solutions.md#B)\
